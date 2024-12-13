@@ -1,4 +1,4 @@
-#CardioClassify: Advanced Machine Learning for ECG-Based Arrhythmia Classification
+# CardioClassify: Advanced Machine Learning for ECG-Based Arrhythmia Classification
 
 ## Overview
 CardioClassify is a comprehensive machine learning framework designed to classify five distinct arrhythmia types based on ECG signals. Leveraging state-of-the-art techniques, the project combines traditional machine learning approaches like Random Forest and XGBoost with deep learning methods using CNN 1D architectures. The primary goal is to achieve accurate arrhythmia classification while gaining insights into the most critical ECG features contributing to predictions.
